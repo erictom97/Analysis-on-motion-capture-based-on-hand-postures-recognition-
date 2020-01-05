@@ -1,0 +1,2 @@
+# Analysis-on-motion-capture-based-on-hand-postures-recognition-
+The project deals with a dataset having different classes of postures where the model is capable to identify each posture and was able to classify them correctly. One of the main application of this project is in helping those people who can’t speak and uses sign languages for communication where our model can convert their signs to meaningful sentences. 
